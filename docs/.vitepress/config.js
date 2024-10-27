@@ -2,23 +2,22 @@
 export default {
   title: 'ECMAScript特性',
   description: '记录ECMAScript各版本特性',
+  base: '/es-feature/',
 
   // @see https://vitepress.dev/zh/reference/site-config#head
-  head: [
-    ['script', {}, `console.log('自定义脚本');`],
-  ],
+  head: [['script', {}, `console.log('自定义脚本');`]],
 
   themeConfig: {
     // aside: 'right',
     // @see https://vitepress.dev/zh/reference/default-theme-config#outline
     outline: {
       level: 'deep',
-      label: '大纲'
+      label: '大纲',
     },
     // @see https://vitepress.dev/zh/reference/default-theme-config#docfooter
     docFooter: {
       prev: '上一页',
-      next: '下一页'
+      next: '下一页',
     },
     // @see https://vitepress.dev/zh/reference/default-theme-config#lightmodeswitchtitle
     // @see https://vitepress.dev/zh/reference/default-theme-config#darkmodeswitchtitle
@@ -56,6 +55,6 @@ export default {
       { text: 'ES14/ES2023', link: '/es2023' },
       { text: 'ES15/ES2024', link: '/es2024' },
       { text: 'ES16/ES2025', link: '/es2025' },
-    ]
-  }
+    ],
+  },
 }
