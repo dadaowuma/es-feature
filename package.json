@@ -1,0 +1,17 @@
+{
+  "name": "es-feature",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "ECMAScript特性",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dadaowuma@163.com",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.4.0"
+  }
+}
