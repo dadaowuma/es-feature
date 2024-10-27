@@ -10,21 +10,21 @@
 `ES7`的规范，访问地址为：`https://262.ecma-international.org/7.0/`  
 `ES14`的规范，访问地址为：`https://262.ecma-international.org/14.0/`
 
-- [ES6](https://262.ecma-international.org/6.0/)
-- [ES7](https://262.ecma-international.org/7.0/)
-- [ES8](https://262.ecma-international.org/8.0/)
-- [ES9](https://262.ecma-international.org/9.0/)
-- [ES10](https://262.ecma-international.org/10.0/)
-- [ES11](https://262.ecma-international.org/11.0/)
-- [ES12](https://262.ecma-international.org/12.0/)
-- [ES13](https://262.ecma-international.org/13.0/)
-- [ES14](https://262.ecma-international.org/14.0/)
-- [ES15](https://262.ecma-international.org/15.0/)
+- [ES6： https://262.ecma-international.org/6.0/](https://262.ecma-international.org/6.0/)
+- [ES7： https://262.ecma-international.org/7.0/](https://262.ecma-international.org/7.0/)
+- [ES8： https://262.ecma-international.org/8.0/](https://262.ecma-international.org/8.0/)
+- [ES9： https://262.ecma-international.org/9.0/](https://262.ecma-international.org/9.0/)
+- [ES10： https://262.ecma-international.org/10.0/](https://262.ecma-international.org/10.0/)
+- [ES11： https://262.ecma-international.org/11.0/](https://262.ecma-international.org/11.0/)
+- [ES12： https://262.ecma-international.org/12.0/](https://262.ecma-international.org/12.0/)
+- [ES13： https://262.ecma-international.org/13.0/](https://262.ecma-international.org/13.0/)
+- [ES14： https://262.ecma-international.org/14.0/](https://262.ecma-international.org/14.0/)
+- [ES15： https://262.ecma-international.org/15.0/](https://262.ecma-international.org/15.0/)
 
 ## 各版本特性
 
 - [版本发布记录](https://github.com/tc39/ecma262/releases)
-- 参考：[Finished Proposals](https://github.com/tc39/proposals/blob/main/finished-proposals.md)
+- [Finished Proposals](https://github.com/tc39/proposals/blob/main/finished-proposals.md)
 
 ### ES6
 

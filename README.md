@@ -7,7 +7,7 @@
 ```bash
 $ npm install
 
-$ npm run dev # http://localhost:5173/
+$ npm run dev # http://localhost:5173/es-feature/
 ```
 
 ## 相关链接
