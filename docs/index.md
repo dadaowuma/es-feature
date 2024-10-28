@@ -30,12 +30,13 @@
 
 TODO: 待完善
 
-### ES7
+### ES7 Jun, 2016
 
 - [Array.prototype.includes](https://github.com/tc39/proposal-Array.prototype.includes)
+  - [MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
 - [Exponentiation operator 【指数运算符 (使用 \*\* 运算符)】](https://github.com/tc39/proposal-exponentiation-operator)
 
-### ES8
+### ES8 Jun, 2017
 
 - [Object.values/Object.entries](https://github.com/tc39/proposal-object-values-entries)
   - Object.values()
@@ -50,7 +51,7 @@ TODO: 待完善
 - [Shared memory and atomics【共享内存和原子】](https://github.com/tc39/proposal-ecmascript-sharedmem)
   - [MDN Atomics](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Atomics)
 
-### ES9
+### ES9 Jun, 2018
 
 - [Lifting template literal restriction](https://github.com/tc39/proposal-template-literal-revision)
   - [参考：Template Literal Revision](https://tc39.es/proposal-template-literal-revision/)
@@ -62,7 +63,7 @@ TODO: 待完善
 - [Promise.prototype.finally](https://github.com/tc39/proposal-promise-finally)
 - [Asynchronous Iteration](https://github.com/tc39/proposal-async-iteration)
 
-### ES10
+### ES10 Jun, 2019
 
 - [Optional catch binding](https://github.com/tc39/proposal-optional-catch-binding)
 - [JSON superset](https://github.com/tc39/proposal-json-superset)
@@ -151,5 +152,5 @@ $ git clone https://github.com/dadaowuma/es-feature.git
 
 $ cd es-feature
 
-$ npm run dev # localhost:5173
+$ npm run dev # http://localhost:5173/es-feature/
 ```
