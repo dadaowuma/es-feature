@@ -5,6 +5,7 @@
   "description": "ECMAScript特性",
   "main": "index.js",
   "scripts": {
+    "start": "npm run dev",
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",
     "test": "echo \"Error: no test specified\" && exit 1"
