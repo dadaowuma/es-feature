@@ -13,6 +13,10 @@
   "author": "dadaowuma@163.com",
   "license": "MIT",
   "devDependencies": {
+    "unplugin-element-plus": "^0.8.0",
     "vitepress": "^1.4.0"
+  },
+  "dependencies": {
+    "element-plus": "^2.8.7"
   }
 }

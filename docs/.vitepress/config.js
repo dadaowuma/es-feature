@@ -1,3 +1,5 @@
+import ElementPlus from 'unplugin-element-plus/vite'
+
 // @see https://vitepress.dev/zh/reference/site-config
 export default {
   title: 'ECMAScript特性',
@@ -44,6 +46,7 @@ export default {
     ],
     sidebar: [
       { text: '首页', link: '/' },
+      { text: '时间轴', link: '/timeline' },
       { text: 'ES6/ES2015', link: '/es2015' },
       { text: 'ES7/ES2016', link: '/es2016' },
       { text: 'ES8/ES2017', link: '/es2017' },
@@ -57,4 +60,12 @@ export default {
       { text: 'ES16/ES2025', link: '/es2025' },
     ],
   },
+
+
+  // https://vitepress.dev/zh/reference/site-config#vite
+  vite: {
+    // Vite 配置选项
+    // 参考： https://element-plus.org/zh-CN/guide/quickstart.html#%E6%89%8B%E5%8A%A8%E5%AF%BC%E5%85%A5
+    plugins: [ElementPlus()],
+  }
 }

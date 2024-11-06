@@ -10,6 +10,7 @@
 `ES7`的规范，访问地址为：`https://262.ecma-international.org/7.0/`  
 `ES14`的规范，访问地址为：`https://262.ecma-international.org/14.0/`
 
+- [ES5: https://262.ecma-international.org/5.1/](https://262.ecma-international.org/5.1/)
 - [ES6： https://262.ecma-international.org/6.0/](https://262.ecma-international.org/6.0/)
 - [ES7： https://262.ecma-international.org/7.0/](https://262.ecma-international.org/7.0/)
 - [ES8： https://262.ecma-international.org/8.0/](https://262.ecma-international.org/8.0/)
