@@ -9,14 +9,13 @@
     ElTag,
     ElBadge,
   } from 'element-plus'
-  import 'element-plus/dist/index.css'
-  import activities from './timeline.js'
+  import features from './features.js'
 </script>
 
 <template>
   <ElTimeline style="max-width: 600px">
     <ElTimelineItem
-      v-for="(activity, index) in activities"
+      v-for="(activity, index) in features"
       :key="index"
       :icon="activity.icon"
       :type="activity.type"

@@ -61,11 +61,18 @@ export default {
     ],
   },
 
-
   // https://vitepress.dev/zh/reference/site-config#vite
   vite: {
     // Vite 配置选项
     // 参考： https://element-plus.org/zh-CN/guide/quickstart.html#%E6%89%8B%E5%8A%A8%E5%AF%BC%E5%85%A5
-    plugins: [ElementPlus()],
+    plugins: [
+      ElementPlus(),
+    ],
+    ssr: {
+      /**
+       * @see https://cn.vite.dev/config/ssr-options#ssr-noexternal
+       */
+      noExternal: ['element-plus']
+    }
   }
 }
