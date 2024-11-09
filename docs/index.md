@@ -1,6 +1,6 @@
 # ECMAScript 各版本特性
 
-## 在线规范导航
+## 在线规范
 
 在线规范统一托管在`262.ecma-international.org`网站上，具体地址为`网站地址加版本号`。
 
@@ -9,6 +9,8 @@
 `ES6`的规范，访问地址为：`https://262.ecma-international.org/6.0/`  
 `ES7`的规范，访问地址为：`https://262.ecma-international.org/7.0/`  
 `ES14`的规范，访问地址为：`https://262.ecma-international.org/14.0/`
+
+### 在线规范导航
 
 - [ES5: https://262.ecma-international.org/5.1/](https://262.ecma-international.org/5.1/)
 - [ES6： https://262.ecma-international.org/6.0/](https://262.ecma-international.org/6.0/)
@@ -144,7 +146,9 @@ TODO: 待完善
 - [Finished Proposals](https://github.com/tc39/proposals/blob/main/finished-proposals.md)
 - [维基百科 ECMAScript](https://zh.wikipedia.org/wiki/ECMAScript)
 
-## 仓库信息
+## 关于此文档
+
+### 仓库信息
 
 此文档仓库位置：[GitHub](https://github.com/dadaowuma/es-feature)
 
@@ -155,3 +159,11 @@ $ cd es-feature
 
 $ npm run dev # http://localhost:5173/es-feature/
 ```
+
+### 相关资源
+
+- [vitepress 中文网](https://vitepress.dev/zh/)
+- [vitepress GitHub](https://github.com/vuejs/vitepress)
+- [vite](https://vite.dev/)
+- [vite 中文网](https://cn.vite.dev/)
+- [element-plus 中文网](https://element-plus.org/zh-CN/)
